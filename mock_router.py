@@ -6,7 +6,7 @@ description = """
 By Alif Hossain
 
 ## Introduction
-For assignment 2 I was tasked with creating a mock router using FastAPI. The goal of this task is to
+I created a mock router using FastAPI
 
 ## Functions
 
